@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="[https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Visitors&color=0e75b6&style=for-the-badge" alt=" helooooProfile Visitors](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRILYbbCme0wA3ypKv0kdZkKElp0_p-zB8J5PzRantsRflnSS4KrJUcVyjM&s=10)"/>
+<img src="xyzzz.pvt " alt=" heloooo this is panda image "/>
 
 </div>
 
