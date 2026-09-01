@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="xyzzz.pvt " alt=" heloooo this is panda image "/>
+<img src="xyzzz.pvt " alt=" heloooo this is panda image..."/>
 
 </div>
 
