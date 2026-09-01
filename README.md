@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello, I'm YOUR NAME
+# 👋 Hello, I'm PREET SONI 
 
 ### 🎓 Integrated MCA Student | 💻 C Programming Learner | 🧮 Mathematics Enthusiast
 
