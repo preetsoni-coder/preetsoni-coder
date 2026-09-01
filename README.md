@@ -4,7 +4,7 @@
 
 ### 🎓 Integrated MCA Student | 💻 C Programming Learner | 🧮 Mathematics Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;I'm+learning+C+programming+%F0%9F%92%BB;I+love+solving+mathematical+problems+%F0%9F%A7%AE;Learning+%7C+Practicing+%7C+Building+%7C+Growing+%F0%9F%9A%80" />
+<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;I'm+learning+C+programming+%F0%9F%92%BB;I+love+solving+mathematical+problems+%F0%9F%A7%AE;Learning+%7C+Practicing+%7C+Building+%7C+Growing+%F0%9F%9A%80](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRILYbbCme0wA3ypKv0kdZkKElp0_p-zB8J5PzRantsRflnSS4KrJUcVyjM&s=10)" />
 
 <br>
 
