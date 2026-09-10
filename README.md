@@ -5,7 +5,7 @@
 
 ### 💻 Aspiring Software Developer | Curious Learner | Problem Solver
 
-<img src="./assets/banner.png" width="100%" alt="Preet Soni GitHub Banner">
+
 
 ---
 
