@@ -1,5 +1,5 @@
 <div align="center">
-# 👋 Hello, I'm Preet Soni!
+##### 👋 Hello, I'm Preet Soni!
 
 ### 🎓 Integrated MCA Student | 1st Year | Section B
 
