@@ -1,45 +1,34 @@
 <div align="center">
 
-# 👋 Hello, I'm PREET SONI 
+# Hi, I'm Preet Soni 👋
 
-### 🎓 Integrated MCA Student | 💻 C Programming Learner | 🧮 Mathematics Enthusiast
+### 🎓 Integrated MCA | 1st Year | Section B
 
-<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;I'm+learning+C+programming+%F0%9F%92%BB;I+love+solving+mathematical+problems+%F0%9F%A7%AE;Learning+%7C+Practicing+%7C+Building+%7C+Growing+%F0%9F%9A%80](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRILYbbCme0wA3ypKv0kdZkKElp0_p-zB8J5PzRantsRflnSS4KrJUcVyjM&s=10)" />
+Welcome to my GitHub profile! I'm a first-year Integrated MCA student who is
+curious about technology, coding, and problem-solving.
 
-<br>
-
-<img src="xyzzz.pvt " alt=" heloooo this is panda image..."/>
-
-</div>
+I am currently learning **C Programming** and exploring the fundamentals of
+programming and logical thinking.
 
 ---
 
 ## 👨‍💻 About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-🎓 I am a **1st Semester Integrated MCA student**.
-
-💻 Currently learning **C Programming** and developing my programming fundamentals.
-
-🧮 I love solving **mathematical and logical problems** using programming.
-
-🧠 I enjoy challenging myself with new coding problems and finding different ways to solve them.
-
-🌱 I am eager to learn more about **programming, algorithms, data structures, and software development**.
-
-🚀 My goal is to continuously improve my coding skills and become a confident software developer.
-
-<br clear="right"/>
+- 🎓 1st Year **Integrated MCA** Student
+- 🏫 Section B
+- 💻 Currently learning **C Programming**
+- 🌱 Interested in learning **new programming languages**
+- 🧩 Enthusiastic about solving **mathematical and logical problems**
+- 🧠 Enjoy exploring new concepts and challenging myself
+- 🚀 Always eager to learn and improve
+- 🎯 Goal: Become a **confident and skilled Software Developer**
 
 ---
 
-## 💡 What I'm Interested In
+## 🛠️ Currently Learning
 
 ```text
-💻 Programming
-🧮 Mathematics
-🧠 Logical Thinking
-🔢 Problem Solving
-📚 Learning New Technologies
-🚀 Software Development
+C Programming       █████░░░░░░
+Programming Logic   █████░░░░░░
+Problem Solving     █████░░░░░░
+Git & GitHub        ███░░░░░░░░
